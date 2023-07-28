@@ -2,8 +2,7 @@
 font-family: 'Fira Sans', sans-serif;
 font-family: 'Tilt Neon', cursive;
 font-family: 'Tilt Warp', cursive; */
-body{
-    margin: 0px;
-    padding: 0px;
-    background-color: rgb(250, 250, 250);
+.head{
+    font-family: 'Tilt Warp', cursive;
+    font-size: 33px;
 }

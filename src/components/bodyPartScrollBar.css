@@ -1,0 +1,11 @@
+.react-horizontal-scrolling-menu--scroll-container {
+    overflow: hidden;
+}
+
+.gym-icon:hover{
+    transform: scale(1);
+}
+
+.name{
+    user-select: none;
+}

@@ -1,0 +1,31 @@
+.banner-img1{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0px 0px 0px 0px;
+    opacity: 0.85;
+}
+
+.banner{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 460px;
+    height: 100vmin;
+    border-radius: 0px 0px 0px 0px;
+    background-color: #d3b6b6;
+}
+
+.bannerImg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -2;
+    opacity: 35%;
+    width: 100%;
+    height: 1250px;
+    object-fit: cover;
+}
